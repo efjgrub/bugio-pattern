@@ -14,8 +14,8 @@ This Pattern does not do away with methodologies, as it is a team management mod
 ![Bugio Cicle](./bugio-cicle.png)
 
 # Pattern Papers
-[English Version](./Bugio Pattern-EN.pdf)
-[Portuguese Version](./Bugio Pattern-pt_BR.pdf)
+* [English version](./Bugio-Pattern-EN.pdf)
+* [Portuguese version](./Bugio-Pattern-pt_BR.pdf)
 
 # Sumary
 A lot of information can be obtained in training, books and papers, but the path to be followed is the decision of the manager. Bugio is one of the many paths, which has been in practice for many years and included hundreds of teams. It is a practical path, that is fun to work with and which works. 
